@@ -17,7 +17,7 @@
     "@types/jest": "^27.0.2",
     "@types/node": "^16.18.1",
     "@types/signale": "^1.4.1",
-    "@typescript-eslint/parser": "^4.0.0",
+    "@typescript-eslint/parser": "^4.33.0",
     "concurrently": "^6.1.0",
     "eslint": "^7.23.0",
     "eslint-plugin-github": "^4.1.3",
